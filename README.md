@@ -12,7 +12,7 @@
 - Jersey cattle
 - Red Dane cattle
 
-**Efficiency: 100%**
+**Efficiency: 98%+**
 
 **Link to Dataset** : https://www.kaggle.com/datasets/anandkumarsahu09/cattle-breeds-datasetet
 
