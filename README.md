@@ -14,7 +14,7 @@
 
 **Efficiency: 98%+**
 
-**Link to Dataset** : https://www.kaggle.com/datasets/anandkumarsahu09/cattle-breeds-datasetet
+**Link to Dataset** : https://www.kaggle.com/datasets/anandkumarsahu09/cattle-breeds-dataset
 
 
 
